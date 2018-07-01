@@ -1,0 +1,29 @@
+C:\AMAN\Demo\CardView\CardView\bin\Debug\CardView.exe.config
+C:\AMAN\Demo\CardView\CardView\bin\Debug\CardView.exe
+C:\AMAN\Demo\CardView\CardView\bin\Debug\CardView.pdb
+C:\AMAN\Demo\CardView\CardView\obj\Debug\CardView.csprojResolveAssemblyReference.cache
+C:\AMAN\Demo\CardView\CardView\obj\Debug\MainWindow.g.cs
+C:\AMAN\Demo\CardView\CardView\obj\Debug\App.g.cs
+C:\AMAN\Demo\CardView\CardView\obj\Debug\CardView_MarkupCompile.cache
+C:\AMAN\Demo\CardView\CardView\obj\Debug\CardView_MarkupCompile.lref
+C:\AMAN\Demo\CardView\CardView\obj\Debug\MainWindow.baml
+C:\AMAN\Demo\CardView\CardView\obj\Debug\CardView.g.resources
+C:\AMAN\Demo\CardView\CardView\obj\Debug\CardView.Properties.Resources.resources
+C:\AMAN\Demo\CardView\CardView\obj\Debug\CardView.csproj.GenerateResource.Cache
+C:\AMAN\Demo\CardView\CardView\obj\Debug\CardView.exe
+C:\AMAN\Demo\CardView\CardView\obj\Debug\CardView.pdb
+D:\Dotnet\WPF Application\[ Demo Project ]\CardView\CardView\bin\Debug\CardView.exe.config
+D:\Dotnet\WPF Application\[ Demo Project ]\CardView\CardView\bin\Debug\CardView.exe
+D:\Dotnet\WPF Application\[ Demo Project ]\CardView\CardView\bin\Debug\CardView.pdb
+D:\Dotnet\WPF Application\[ Demo Project ]\CardView\CardView\obj\Debug\CardView.csprojResolveAssemblyReference.cache
+D:\Dotnet\WPF Application\[ Demo Project ]\CardView\CardView\obj\Debug\MainWindow.g.cs
+D:\Dotnet\WPF Application\[ Demo Project ]\CardView\CardView\obj\Debug\App.g.cs
+D:\Dotnet\WPF Application\[ Demo Project ]\CardView\CardView\obj\Debug\CardView_MarkupCompile.cache
+D:\Dotnet\WPF Application\[ Demo Project ]\CardView\CardView\obj\Debug\CardView_MarkupCompile.lref
+D:\Dotnet\WPF Application\[ Demo Project ]\CardView\CardView\obj\Debug\MainWindow.baml
+D:\Dotnet\WPF Application\[ Demo Project ]\CardView\CardView\obj\Debug\CardView.g.resources
+D:\Dotnet\WPF Application\[ Demo Project ]\CardView\CardView\obj\Debug\CardView.Properties.Resources.resources
+D:\Dotnet\WPF Application\[ Demo Project ]\CardView\CardView\obj\Debug\CardView.csproj.GenerateResource.cache
+D:\Dotnet\WPF Application\[ Demo Project ]\CardView\CardView\obj\Debug\CardView.csproj.CoreCompileInputs.cache
+D:\Dotnet\WPF Application\[ Demo Project ]\CardView\CardView\obj\Debug\CardView.exe
+D:\Dotnet\WPF Application\[ Demo Project ]\CardView\CardView\obj\Debug\CardView.pdb
